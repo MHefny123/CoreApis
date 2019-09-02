@@ -12,3 +12,17 @@
 /home/mhefny/VSCodeProjects/WeB/WebApi/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.RazorTargetAssemblyInfo.cache
 /home/mhefny/VSCodeProjects/WeB/WebApi/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.dll
 /home/mhefny/VSCodeProjects/WeB/WebApi/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.pdb
+/home/mhefny/VSCProjects/CoreApis/CoreApi/bin/Debug/netcoreapp2.2/CoreApi.deps.json
+/home/mhefny/VSCProjects/CoreApis/CoreApi/bin/Debug/netcoreapp2.2/CoreApi.runtimeconfig.json
+/home/mhefny/VSCProjects/CoreApis/CoreApi/bin/Debug/netcoreapp2.2/CoreApi.runtimeconfig.dev.json
+/home/mhefny/VSCProjects/CoreApis/CoreApi/bin/Debug/netcoreapp2.2/CoreApi.dll
+/home/mhefny/VSCProjects/CoreApis/CoreApi/bin/Debug/netcoreapp2.2/CoreApi.pdb
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.csprojAssemblyReference.cache
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.csproj.CoreCompileInputs.cache
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.RazorAssemblyInfo.cache
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.RazorAssemblyInfo.cs
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.AssemblyInfoInputs.cache
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.AssemblyInfo.cs
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.RazorTargetAssemblyInfo.cache
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.dll
+/home/mhefny/VSCProjects/CoreApis/CoreApi/obj/Debug/netcoreapp2.2/CoreApi.pdb
