@@ -21,7 +21,7 @@ namespace CoreApi.Controllers
 
             if (context.Product.Count() == 0)
             {
-                context.Product.Add(new Product { Id = 0, ProdDesc="desc",ProdName="defualt Name",ProdPrice=0,UpdatedAt=DateTime.Now.Date });
+                context.Product.Add(new Product { Id = 0, ProdDesc = "desc", ProdName = "defualt Name", ProdPrice = 0, UpdatedAt = DateTime.Now.Date });
                 context.SaveChanges();
 
             }
@@ -67,8 +67,8 @@ namespace CoreApi.Controllers
         public async Task<IActionResult> PutProduct(int id, Product Product)
         {
 
-            Product.Id=id;
-            Product.UpdatedAt=DateTime.Now.Date;
+            Product.Id = id;
+            Product.UpdatedAt = DateTime.Now.Date;
             if (id != Product.Id)
             {
                 return BadRequest();
