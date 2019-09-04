@@ -44,7 +44,8 @@ namespace CoreApi
         {
             
             options.AddPolicy("AllowSpecificOrigin",
-                builder => builder.WithOrigins("http://localhost:4200").AllowAnyHeader()
+                // builder => builder.WithOrigins("http://localhost:4200").AllowAnyHeader()
+                builder => builder.WithOrigins("*").AllowAnyHeader()
                 .AllowAnyMethod());
         });
         
