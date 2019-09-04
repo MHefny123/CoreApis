@@ -21,4 +21,4 @@ ENTRYPOINT ["dotnet", "CoreApi.dll"]
 
 # $ docker build -t corepiangular .
 
-# $ docker run -d -p 5080:80 --name corepiangular
+# $ docker run -d -p 5080:80 --name CoreApi corepiangular
