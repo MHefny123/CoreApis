@@ -17,3 +17,8 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app .
 ENTRYPOINT ["dotnet", "CoreApi.dll"]
+
+
+# $ docker build -t corepiangular .
+
+# $ docker run -d -p 5080:80 --name corepiangular
